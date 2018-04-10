@@ -16,7 +16,8 @@ end
 file = File.open("Shakespeare.txt", "rb")
 contents = file.read;
  
+
 dico = "grosMots.txt"
-jean_michel_data(file, dico)
+jean_michel_data(file, gros_mots)
 
 def get_file_as_string("grosMots.txt").split

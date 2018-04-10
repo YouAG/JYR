@@ -16,4 +16,5 @@ def chiffre_de_cesar(input, n)
  	chiffres.join("")
 end
 
-puts chiffre_de_cesar("oxlrc", 3)
+puts chiffre_de_cesar("what a string", 3) # salut correcteur, si tu veux tester notre code pour voir s'il fonctionne.
+# t'as juste a taper la phrase que tu veux a la place de "what a string" allé salut champion !

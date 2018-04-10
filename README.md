@@ -1,4 +1,4 @@
-Normalement tout devrait fonctionner, on a pas reussi a faire la derniere partie du 4.BIS
+Normalement tout fonctionne, on a pas reussi a faire la derniere partie du 4.BIS
 pour le reste ça devrait rouler, allé salut ami Moussaillon !
 
 # JYR
